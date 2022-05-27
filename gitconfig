@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = robino.francois973@gmail.com
+	name = Francois Robino
